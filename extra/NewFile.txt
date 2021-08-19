@@ -1,0 +1,7 @@
+#Evis asked for the comment
+#Sun Aug 15 14:49:00 EDT 2021
+StudentNumber=N123
+School=NeoTech 
+FirstName=Mehmet
+LastName=Cali
+Age=25
